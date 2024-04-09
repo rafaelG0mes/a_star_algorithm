@@ -1,3 +1,13 @@
+Running the code
+-----
+**Content**
+- the file `graph.py` handles the creation of the graphical interface
+- The file `path_planning.py` contains the A* algorithm and the structure of the grid that will be used
+
+**How to use it**
+- First, modify the grid at the file `path_planning.py` according to your tests
+- To run the code, use the command `python path_planning.py`
+
 Subject
 -----
 
